@@ -1,0 +1,19 @@
+Job Title: Full-Stack Python & React Developer
+Location: Hybrid
+Experience: 3+ years of professional software development experience.
+Education: Bachelor's Degree in Computer Science or equivalent.
+
+Job Overview:
+We are seeking a versatile Full-Stack Engineer skilled in building modern web applications with Python backends and React frontends.
+
+Key Requirements (Must Have):
+- 3+ years of experience in Python web development using FastAPI or Django.
+- Strong proficiency with React, TypeScript or JavaScript, and modern CSS/Tailwind.
+- Experience with relational databases like PostgreSQL and ORMs (SQLAlchemy, Prisma).
+- Proven track record of developing and consuming RESTful APIs.
+- Experience using Git and Docker containerization.
+
+Preferred Qualifications (Good to Have):
+- Familiarity with Redis caching and Celery task queues.
+- Basic experience with AWS cloud services (S3, EC2).
+- Unit testing with Pytest and Jest.

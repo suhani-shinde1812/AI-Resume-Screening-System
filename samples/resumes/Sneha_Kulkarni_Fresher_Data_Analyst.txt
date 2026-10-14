@@ -1,0 +1,20 @@
+Sneha Kulkarni
+Email: sneha.kulkarni@example.com | Phone: (555) 345-6789
+LinkedIn: linkedin.com/in/sneha-kulkarni-data
+
+OBJECTIVE:
+Enthusiastic Recent Computer Science Graduate seeking an entry-level Data Analyst or Junior ML role. Strong foundation in Python, SQL, Statistics, and foundational Machine Learning.
+
+SKILLS:
+- Technical Skills: Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Git
+- BI & Tools: Tableau, Excel, PowerBI, Jupyter Notebooks
+- Soft Skills: Problem Solving, Critical Thinking, Presentation, Teamwork
+
+PROJECTS:
+- Customer Churn Prediction: Built a binary classifier using Scikit-Learn and Pandas on Kaggle dataset, achieving 82% ROC-AUC.
+- E-Commerce Sales Dashboard: Created an interactive Tableau dashboard visualizing quarterly sales metrics.
+- Sentiment Analysis on Movie Reviews: Implemented basic NLP bag-of-words and TF-IDF models in Python.
+
+EDUCATION:
+- Bachelor of Science in Statistics & Data Science | Pune University (2021 - 2024)
+- GPA: 3.8 / 4.0

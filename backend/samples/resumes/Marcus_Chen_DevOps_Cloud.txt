@@ -1,0 +1,24 @@
+Marcus Chen
+Email: marcus.chen.cloud@example.com | Phone: (555) 901-2345
+GitHub: github.com/marcuschen-devops
+
+PROFESSIONAL SUMMARY:
+DevOps and Cloud Infrastructure Engineer with 6+ years of experience designing secure, highly-available infrastructure on AWS and Kubernetes.
+
+TECHNICAL COMPETENCIES:
+- Cloud Platforms: AWS, Azure, GCP
+- Containerization & Orchestration: Docker, Kubernetes, Helm, Terraform, Ansible
+- CI/CD & Monitoring: Jenkins, GitLab CI, GitHub Actions, Prometheus, Grafana, ELK Stack
+- Scripting & Automation: Bash, Python, Linux, Shell
+
+WORK EXPERIENCE:
+Lead DevOps Engineer | SkyHigh Networks (2020 - Present)
+- Managed multi-region Kubernetes clusters on AWS EKS serving millions of requests.
+- Automated infrastructure deployment with Terraform and Ansible.
+- Reduced deployment cycle times by 65% through optimized CI/CD pipelines.
+
+Systems Administrator | CoreTech Solutions (2018 - 2020)
+- Administered Linux production servers, Nginx load balancers, and PostgreSQL databases.
+
+EDUCATION:
+- Bachelor of Science in Information Technology | University of Texas (2014 - 2018)

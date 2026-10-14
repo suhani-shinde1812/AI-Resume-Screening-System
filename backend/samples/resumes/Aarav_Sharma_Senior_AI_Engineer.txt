@@ -1,0 +1,26 @@
+Aarav Sharma
+Email: aarav.sharma.ai@example.com | Phone: (555) 234-5678
+LinkedIn: linkedin.com/in/aarav-sharma-ml | GitHub: github.com/aarav-sharma
+
+PROFESSIONAL SUMMARY:
+Lead AI Engineer with 5+ years of extensive experience architecting state-of-the-art Deep Learning, NLP, and Generative AI systems. Proven record of developing Retrieval-Augmented Generation (RAG) pipelines, fine-tuning LLMs, and deploying scalable microservices to AWS cloud.
+
+CORE SKILLS:
+- Languages & Core: Python, C++, SQL, Git, Linux
+- AI / ML / NLP: Machine Learning, Deep Learning, Natural Language Processing, NLP, PyTorch, Scikit-Learn, Transformers, Hugging Face, LLM, Generative AI, RAG, BERT, LangChain
+- Vector Databases: FAISS, ChromaDB, Pinecone
+- Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, CI/CD, FastAPI, Flask, REST APIs
+
+PROFESSIONAL EXPERIENCE:
+Senior AI Engineer | NeuralScale Technologies (2021 - Present)
+- Designed and deployed enterprise RAG pipeline serving 200k daily queries with sub-second latency using FastAPI and Pinecone.
+- Fine-tuned open-source Hugging Face transformer models (Llama and Mistral) for domain-specific contract extraction with 94% precision.
+- Built automated model evaluation and MLOps workflows using PyTorch, Docker, and GitHub Actions on AWS.
+
+Machine Learning Engineer | Apex Data Labs (2019 - 2021)
+- Developed NLP classification models using Scikit-Learn and BERT for automated customer feedback triage.
+- Engineered ETL pipelines with Pandas and PostgreSQL, reducing processing overhead by 40%.
+
+EDUCATION:
+- Master of Science in Computer Science (Artificial Intelligence specialization) | Stanford University (2017 - 2019)
+- Bachelor of Technology in Computer Science | Indian Institute of Technology (2013 - 2017)

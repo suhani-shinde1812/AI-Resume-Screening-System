@@ -1,0 +1,14 @@
+Job Title: Data Analyst
+Location: On-site / Hybrid
+Experience: 1-2 years of data analysis or business intelligence experience.
+Education: Bachelor's in Statistics, Mathematics, Computer Science, or Business.
+
+Core Requirements (Must Have):
+- Strong proficiency in SQL for querying large relational databases.
+- Practical experience with Python (Pandas, NumPy, Matplotlib, Seaborn).
+- Experience building interactive dashboards in PowerBI or Tableau.
+- Solid understanding of exploratory data analysis and descriptive statistics.
+
+Nice to Have:
+- Basic understanding of machine learning algorithms (Scikit-Learn).
+- Experience with Excel advanced formulas and ETL workflows.

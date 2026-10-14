@@ -1,0 +1,25 @@
+Rohan Verma
+Email: rohan.verma.code@example.com | Phone: (555) 432-1098
+GitHub: github.com/rohan-verma-fullstack
+
+PROFESSIONAL SUMMARY:
+Full Stack Developer with 4 years of experience building modern web applications, scalable REST APIs, and microservices using React, Node.js, Python, and PostgreSQL.
+
+TECHNICAL SKILLS:
+- Frontend: React, JavaScript, TypeScript, Next.js, HTML, CSS, TailwindCSS, Redux
+- Backend: Python, FastAPI, Django, Node.js, Express, REST APIs
+- Databases: PostgreSQL, MongoDB, Redis, SQLAlchemy
+- DevOps & Tools: Docker, Git, GitHub Actions, AWS (EC2, S3), Nginx
+
+PROFESSIONAL EXPERIENCE:
+Full Stack Software Engineer | CloudStack Solutions (2021 - Present)
+- Developed responsive web interfaces using React, TypeScript, and TailwindCSS.
+- Architected robust backend services in Python FastAPI and PostgreSQL.
+- Implemented asynchronous tasks with Celery and Redis.
+
+Web Developer | WebCraft Studios (2020 - 2021)
+- Built client web apps with React, JavaScript, and Node.js.
+- Integrated payment gateways and external third-party REST APIs.
+
+EDUCATION:
+- Bachelor of Technology in Computer Science | Delhi Technological University (2016 - 2020)

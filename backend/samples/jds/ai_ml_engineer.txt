@@ -1,0 +1,21 @@
+Job Title: Senior AI / Machine Learning Engineer
+Department: Artificial Intelligence & Data Platform
+Location: Remote / Hybrid
+Experience: 4+ years of relevant experience in Machine Learning and NLP.
+Education: Bachelor's or Master's in Computer Science, Data Science, or related STEM field.
+
+About the Role:
+We are looking for an experienced Senior AI / Machine Learning Engineer to design, build, and deploy production-grade NLP, Large Language Model (LLM), and Generative AI applications. You will collaborate with engineering teams to integrate modern AI pipelines into our enterprise platform.
+
+Requirements (Must Have):
+- 4+ years of hands-on experience in Machine Learning and Natural Language Processing (NLP).
+- Strong proficiency in Python, PyTorch or TensorFlow, and Scikit-Learn.
+- Experience building RAG pipelines, fine-tuning LLMs, and working with Hugging Face transformers.
+- Experience with Vector Databases (such as Pinecone, FAISS, ChromaDB, or Qdrant).
+- Solid knowledge of Git, Docker, and REST APIs (FastAPI or Flask).
+
+Nice to Have (Good to Have):
+- Experience deploying ML models on AWS (SageMaker, Lambda, ECS) or Azure.
+- Hands-on experience with LangChain or LlamaIndex.
+- Familiarity with CI/CD pipelines, Kubernetes, and MLOps tools (MLflow, Weights & Biases).
+- Master's or Ph.D. degree in a quantitative domain.

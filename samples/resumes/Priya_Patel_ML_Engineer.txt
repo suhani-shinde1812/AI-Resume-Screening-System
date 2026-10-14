@@ -1,0 +1,25 @@
+Priya Patel
+Email: priya.patel.dev@example.com | Phone: (555) 876-5432
+LinkedIn: linkedin.com/in/priya-patel-data | GitHub: github.com/priyapatel
+
+SUMMARY:
+Data Scientist & Machine Learning Engineer with 3.5 years of industry experience building predictive models, NLP classifiers, and data analysis pipelines using Python, Scikit-Learn, TensorFlow, and SQL.
+
+SKILLS:
+- Languages: Python, SQL, R, Bash
+- Machine Learning & Data: Machine Learning, Scikit-Learn, TensorFlow, Keras, Pandas, NumPy, NLP, Matplotlib, Data Analysis, Feature Engineering
+- Frameworks & Tools: Flask, FastAPI, Git, Docker, Postman, PostgreSQL
+- Cloud: Basic AWS, S3
+
+WORK EXPERIENCE:
+Machine Learning Engineer | Innovate Analytics (2021 - Present)
+- Built NLP text summarization and sentiment analysis tools using Python, TensorFlow, and Scikit-Learn.
+- Deployed predictive REST APIs using FastAPI and Docker.
+- Collaborated with product teams to clean and analyze datasets of over 5M user records with Pandas.
+
+Junior Data Analyst | TechCorp (2020 - 2021)
+- Wrote complex SQL queries on PostgreSQL for business intelligence reports.
+- Developed dashboards and exploratory data analysis scripts.
+
+EDUCATION:
+- Bachelor of Engineering in Information Technology | Mumbai University (2016 - 2020)
